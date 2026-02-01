@@ -14,8 +14,8 @@ $ cat /dev/zakki
 # Hello! I'm Zakki, a low-level programmer!
 # Check out my links below:
 #         X: https://x.com/zakki0925224
-#         GitHub: https://github.com/Zakki0925224
-#         Portfolio: https://bento.me/zakki0925224
+#         GitHub: https://github.com/zakki0925224
+#         Portfolio: https://zakki0925224.github.io
 
 $ sudo dmesg | tail
 
